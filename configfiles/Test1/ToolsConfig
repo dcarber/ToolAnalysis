@@ -1,0 +1,2 @@
+test1 GenerateHits configfiles/GenerateHitsConfig
+test2 PrintANNIEEvent configfiles/PRintANNIEEventConfig
